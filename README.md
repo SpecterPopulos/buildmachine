@@ -2,4 +2,13 @@
 
 Automated compilation of binaries for different architectures
 
-WIP
+## ARM64
+- openssh related binaries (ssh,sshd,sftp,sftp-server, ...)
+
+## MIPS
+- masscan
+- masscan-static
+
+## ARMv7
+- masscan
+- masscan-static
