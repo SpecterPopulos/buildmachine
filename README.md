@@ -2,6 +2,9 @@
 
 Automated compilation of binaries for different architectures
 
+## x86_64
+- masscan-static
+
 ## ARM64
 - openssh related binaries (ssh,sshd,sftp,sftp-server, ...)
 
